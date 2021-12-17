@@ -5,7 +5,7 @@ Nếu bạn muốn kiểm tra sức khỏe trái tim của mình, đừng ngần
 
 ## HƯỚNG DẪN SỬ DỤNG WEB TIMPRO
 
-![Giao diện web](https://www.pinterest.com/pin/548524429624247204/)
+![Giao diện web](https://lh3.googleusercontent.com/pw/AM-JKLUtygYQuiLl2pt7VzxVhRy8tPjSBhoWimiXzdLVi45swBfA1wpw81KkrPys8YYk2NBT7u4i5dZVqekFIlA__A24ZpOp5RAx0BgribvKJM0N4yzL2xDcAKZuYcBfIqDg-UQslhFkPrX2hzqPrm9scG8=w454-h128-no?authuser=0)
 Bạn có thể thấy ở trang chủ chính của web gồm 4 mục:
 - Kiểm tra sức khỏe
 - Kiểm tra tim mạch
