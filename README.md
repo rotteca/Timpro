@@ -21,11 +21,13 @@ Tổng cộng có 13 câu hỏi và câu trả lời tương ứng. Bạn chỉ 
 > Hãy trả lời hết các câu hỏi nhé!
 
 Khi kết thúc, bạn sẽ thấy một hộp thông báo điểm của bạn là bao nhiêu
-!(https://lh3.googleusercontent.com/pw/AM-JKLUtygYQuiLl2pt7VzxVhRy8tPjSBhoWimiXzdLVi45swBfA1wpw81KkrPys8YYk2NBT7u4i5dZVqekFIlA__A24ZpOp5RAx0BgribvKJM0N4yzL2xDcAKZuYcBfIqDg-UQslhFkPrX2hzqPrm9scG8=w454-h128-no?authuser=0)
+![điểm](https://lh3.googleusercontent.com/pw/AM-JKLUtygYQuiLl2pt7VzxVhRy8tPjSBhoWimiXzdLVi45swBfA1wpw81KkrPys8YYk2NBT7u4i5dZVqekFIlA__A24ZpOp5RAx0BgribvKJM0N4yzL2xDcAKZuYcBfIqDg-UQslhFkPrX2hzqPrm9scG8=w454-h128-no?authuser=0)
 > Hãy nhấn OK để tiếp tục
 
 Dựa trên số điểm ấy chúng tôi sẽ đưa ra kết luận bạn có trái tim khỏe mạnh hay không
+- Hình ảnh minh họa bạn có trái tim không khỏe
 ![Hình ảnh minh họa bạn có trái tim không khỏe](https://lh3.googleusercontent.com/pw/AM-JKLU9I-Tm_Keo1RbybRthCnFAw7HM32f10VFhq6NYkL2V0WzhG2Rafa3VAQ95UOatR4eFGzpag1SpLmsi90WIFIiJKtEFKlzS4Zmers2rSRhGCKqXZEnhXlgSfj6zthSZ4-HlrX9xfCipMiE0Rkmctl0=w453-h232-no?authuser=0)
+- Hình ảnh minh họa bạn có trái tim khỏe
 ![Hình ảnh minh họa bạn có trái tim khỏe](https://lh3.googleusercontent.com/pw/AM-JKLVCMvKIYFsQ7Tw103fm1oObn4ACp0yc1X0g07NFcDipr9gn_bH3DehPKYJoXED1afjuRKhSG4iJc_AxqUftvofisLMPRr2ifTqfyU8CGVOXEUGIrMUZs1Qz1Yx4IQPo-TZWtYtQ6ClzEDW_9lhReh0=w451-h126-no?authuser=0)
 > Hãy nhấn OK để tiếp tục
 
