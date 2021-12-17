@@ -59,7 +59,7 @@ Chúng tôi kiểm tra sức khỏe của bạn dựa trên chỉ số BMI và n
 
 ### GIỚI THIỆU VỀ CHÚNG TÔI
 
-Phía bên trái màn hình có thanh công cụ, bạn hãy bấm vào GIỚI THIỆU
+Phía bên trái màn hình có thanh công cụ, bạn hãy bấm vào GIỚI THIỆU.
 Khi đó bạn sẽ thấy thông tin về chúng tôi như sau:
 
 ![minh họa](https://lh3.googleusercontent.com/pw/AM-JKLXgw27AIvlKmHP5WrQhPLp4KM4ppzRrnTLyJ0pkUE6v-OTV-akm-f6g8MMAKJy5BgVWqwd2ET2xPBysVQryneRRbpJqhm3pFWB1l7IPoG7levpNx50ezKSFy-EDujwXF_XB_LC4uDKsxMoeh1d_9kA=w1540-h702-no?authuser=0)
@@ -73,7 +73,4 @@ Nếu bạn muốn có một trái tim khỏe mạnh, hãy trở thành thành v
 ![minh họa](https://lh3.googleusercontent.com/ey4mKOdbumQQpLA5usaZb6hC4odbxxfoHoDl8ev1YA9w_Re6mt_f8UB6KZwLudWYiBU5YBO2F3yl-K7E-T9cFpnlKHRNKmTuZIPTj7gfCTLoNFc8C8xW73jZFdvWyyXO8EYGJEWEtQHGJ9yMVXuVR0BoKgyoNVaLJxRiuy53D0wjutPjWiddAjCRJlXrXpPKMQ6VmBVtfrCZ5-YHFgU0_AfBo7IV1hLq_Vl6qu_Nnnq3vGKLH3kweQ9dL_QL8LxYdP_jgqAiDn6PLrNTHRvL46PGBcaS39ogw8jlCC68hftVzBgdpA0kMY2EjDsat8PLyG2pligWzfto4yiEUaSBMMTDkXtwhRV09h_zA4bNdcixL2Xx8oO81gDnREiIsE4RS6Ot0uPIWPe1Q7Xi951c5mAYDASSoB1ozlripCoKOjhuA97_fT0jz11udnKI36ChtMhoUohTOngOCfveH7-DbK6OplBXU_ggifvesuVbm71XNllwzLlCRUj3g6mxbWb3B4CdcdmHjXazWn1mGee6zcgbs8Or3PrLEbVqVxaHYOcdkTFMUwmJ71ifoRHZR_OUFqWoJ1M6hkWpZGSHTslAp50_GRIwYS77L_WfcknMPtI4COT_jajQF8JJejRK9gXBb-2OSPJrvtQfNBn_lcMaYv3Dm3zuHWp6GS5LlDvUFTcoevg7OMIQNGz9SMDji93co5bhIO8Mt4XZqsMwkViBdPJK=w1887-h861-no?authuser=0)
 
 ### CẢM ƠN BẠN ĐÃ GHÉ THĂM WEB TIMPRO!
-
-![ảnh](https://i.pinimg.com/originals/8e/48/1a/8e481a517e367561e478de9116e53235.jpg)
-
 
