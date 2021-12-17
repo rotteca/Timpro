@@ -40,24 +40,24 @@ Chúng tôi sẽ hỏi bạn có muốn đặt lịch khám không nếu trái t
 ![Hình ảnh minh họa](https://lh3.googleusercontent.com/pw/AM-JKLW171bnX1ahquY1zlxJTWLSRvYYVEi9PLcjOtbgfuFJDcAndIKmP8qT5MTEOexOEkZF_MFkEjh7D8JQpmMzs0A2kU8huzxiJW7r0haIakGH3oCWxpqym41rD9WvRy7EpWbBXuFiVCrA7NeYI_lYon4=w455-h130-no?authuser=0)
 
 - Nếu bạn nhấn OK chúng tôi sẽ đưa ra đường link đặt lịch khám cho bạn. 
-- 
+
 [Link](http://benhvientimhanoi.vn/huong-dan-kham-benh/dang-ky-kham-benh)
 
 ![Hình ảnh minh họa](https://lh3.googleusercontent.com/pw/AM-JKLVbVHItQd8N9HgkpqLCoPMa1N4YTW6WTtWv5dA_DsyCsi_A1uxTkdPq4vZZ2JXipEej17yZHmZN4CFXVSdBcKwCN52r7xiIV-ixkHkyMu7aYyga67pK3yqS8Gw398L4pu_tnAvBDSvvkMM5GxEu6nM=w453-h150-no?authuser=0)
 
 - Nếu bạn nhấn hủy, chúng tôi mong rằng bạn sẽ quan tâm tới trái tim của bạn hơn.
-- 
+
 ![Hình ảnh minh họa](https://lh3.googleusercontent.com/pw/AM-JKLVvUl_bc8EYnkqNQbncTWDRYbHJo4zoYqC_IFDQMRURUpvf5YmsflRgq58cTYiP2Dzua52HxkJyAivc7VBDZOqWuhvv2u8gK0m_hfb2V-xZzlElggQXZ6o0mOf4f_EtLFaSlIor7V7uZHhDFcCY-m4=w451-h144-no?authuser=0)
 
 ### KIỂM TRA SỨC KHỎE
 
 Chúng tôi kiểm tra sức khỏe của bạn dựa trên chỉ số BMI và nhịp tim.
-- Hãy chọn đúng chỉ số cơ thể (chiều cao đơn vị m, cân nặng đơn vị kg) và nhịp tim của bạn.
+- Hãy chọn đúng chỉ số cơ thể (chiều cao đơn vị cm, cân nặng đơn vị kg) và nhịp tim của bạn.
 - Sau đó bấm CALCULATE để hiển thị kết quả.
 
 ![Hình ảnh minh họa](https://lh3.googleusercontent.com/pw/AM-JKLV9jU4-hOpKKJ_ZAIPXhLHAYx51DcXL9uQE1ZtB8htoIqN_cqvMvhpRz9Qs8XyWJplVsPbqLg0lRrG4Ar4Jk9e_erHLhMsOG0OhPqrlb0nEv4_-uacFjmk_67tzibysg4H7fGyoJ68GUTd5qRsyI7A=w1543-h762-no?authuser=0)
 
-#### GIỚI THIỆU VỀ CHÚNG TÔI
+### GIỚI THIỆU VỀ CHÚNG TÔI
 
 Phía bên trái màn hình có thanh công cụ, bạn hãy bấm vào GIỚI THIỆU nhé.
 Khi đó bạn sẽ thấy thông tin về chúng tôi như sau:
