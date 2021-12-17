@@ -1,2 +1,21 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# DỰ ÁN WEB TIMPRO
+
+Timpro là một dự án web của FIVE-FIRE, với mong muốn đem đến thắp lên hy vọng trong cuộc chiến với các căn bệnh nguy hiểm, đặc biệt là về tim mạch.
+Nếu bạn muốn kiểm tra sức khỏe trái tim của mình, đừng ngần ngại mà hãy đến với bài kiểm tra của timer.
+
+## HƯỚNG DẪN SỬ DỤNG WEB TIMPRO
+
+![Giao diện web](https://photos.google.com/photo/AF1QipMVCqQBjj0D1MdbbXW_kcfXayYcuRjJUVnT7sWs)
+Bạn có thể thấy ở trang chủ chính của web gồm 4 mục:
+- Kiểm tra sức khỏe
+- Kiểm tra tim mạch
+- Giới thiệu
+- Login
+> Bạn hãy nhấn vào bắt đầu để kiểm tra tim mạch
+
+## BỘ CÂU HỎI 
+
+Tổng cộng có 13 câu hỏi và câu trả lời tương ứng. Bạn chỉ được chọn 1 câu trả lời.
+> Hãy trả lời hết các câu hỏi nhé!
+![Ảnh câu hỏi](https://photos.google.com/photo/AF1QipNasTA5wJnpAbbD9XG840ijT89nCUAK9FFGuM2G)
+
