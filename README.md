@@ -1,6 +1,6 @@
 # DỰ ÁN WEB TIMPRO
 
-Timpro là một dự án web của FIVE-FIRE, với mong muốn đem đến thắp lên hy vọng trong cuộc chiến với các căn bệnh nguy hiểm, đặc biệt là về tim mạch.
+Timpro là một dự án web của FIVE-FIRE, với mong muốn thắp lên hy vọng trong cuộc chiến với các căn bệnh nguy hiểm, đặc biệt là về tim mạch.
 Nếu bạn muốn kiểm tra sức khỏe trái tim của mình, đừng ngần ngại mà hãy đến với bài kiểm tra của timer.
 
 ## HƯỚNG DẪN SỬ DỤNG WEB TIMPRO
