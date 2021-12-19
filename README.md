@@ -55,7 +55,7 @@ Chúng tôi kiểm tra sức khỏe của bạn dựa trên chỉ số BMI và n
 - Hãy chọn đúng chỉ số cơ thể (chiều cao đơn vị cm, cân nặng đơn vị kg) và nhịp tim của bạn.
 - Sau đó bấm CALCULATE để hiển thị kết quả.
 
-![Hình ảnh minh họa](https://lh3.googleusercontent.com/pw/AM-JKLV9jU4-hOpKKJ_ZAIPXhLHAYx51DcXL9uQE1ZtB8htoIqN_cqvMvhpRz9Qs8XyWJplVsPbqLg0lRrG4Ar4Jk9e_erHLhMsOG0OhPqrlb0nEv4_-uacFjmk_67tzibysg4H7fGyoJ68GUTd5qRsyI7A=w1543-h762-no?authuser=0)
+![Hình ảnh minh họa](https://lh3.googleusercontent.com/pw/AM-JKLXy-mtSHseYMx13fFsQnXRNfOoIQPRjWMan0fjsJz7wYsBxB9h5T1qGBA7nMDFC-JzfZSjUxecvQx8bw_3zi2z8CiTBBtFX48F_r_F7qE4q2ARHvRO56rT_h73KExbx6nohYD5Ubp3MfNj6GysxDiZ1=w1406-h608-no?authuser=0)
 
 ### GIỚI THIỆU VỀ CHÚNG TÔI
 
